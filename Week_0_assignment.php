@@ -1,6 +1,6 @@
 <?php
 $level = 5;
-$assignment = 1; //Switch 
+$assignment = 1; //Switch 1 or 2
 $blank = "  ";
 $star = "* ";
 for ($i = 1; $i <= $level; $i++) {
